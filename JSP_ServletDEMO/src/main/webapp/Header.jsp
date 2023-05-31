@@ -26,7 +26,7 @@
     </head>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark" style="height: 50px;">
         <div class="container-fluid">
-            <a href="#" class="navbar-brand"> <i class="bi bi-shop"></i> Technology</a>
+            <a href="#" class="navbar-brand"> <i class="bi bi-shop"></i> ATN</a>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain">
                 <span class="navbar-toggler-icon"></span>
